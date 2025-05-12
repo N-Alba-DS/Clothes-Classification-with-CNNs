@@ -1,1 +1,2 @@
 # Clothes-Classification-with-CNNs
+El siguiente repositorio contiene el trabajo de especialización presentado en la UBA Facultad de Ciencias exactas para obtener el título de especialista en Explotación de Datos y Descubrimiento del Conocimiento. El mismo se basa en la aplicación de Redes Neuronales Convolucionales a: un problema de clasificación multiclase, extracción de vectores y clustering de vectores de alta dimensionalidad.
